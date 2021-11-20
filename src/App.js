@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import Home from './components/Home';
 import UserProfile from './components/UserProfile';
-import LogIn from './Login';
+import LogIn from './components/Login';
 import axios from "axios";
 import Debit from './components/Debits';
 import Credits from './components/Credits';
