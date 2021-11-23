@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bank-of-react/static/css/main.5863d266.chunk.css",
+    "main.css": "/bank-of-react/static/css/main.dca98a1a.chunk.css",
     "main.js": "/bank-of-react/static/js/main.0815970e.chunk.js",
     "main.js.map": "/bank-of-react/static/js/main.0815970e.chunk.js.map",
     "runtime-main.js": "/bank-of-react/static/js/runtime-main.93e82572.js",
@@ -10,13 +10,13 @@
     "static/js/3.14506e15.chunk.js": "/bank-of-react/static/js/3.14506e15.chunk.js",
     "static/js/3.14506e15.chunk.js.map": "/bank-of-react/static/js/3.14506e15.chunk.js.map",
     "index.html": "/bank-of-react/index.html",
-    "static/css/main.5863d266.chunk.css.map": "/bank-of-react/static/css/main.5863d266.chunk.css.map",
+    "static/css/main.dca98a1a.chunk.css.map": "/bank-of-react/static/css/main.dca98a1a.chunk.css.map",
     "static/js/2.9ac37412.chunk.js.LICENSE.txt": "/bank-of-react/static/js/2.9ac37412.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.93e82572.js",
     "static/js/2.9ac37412.chunk.js",
-    "static/css/main.5863d266.chunk.css",
+    "static/css/main.dca98a1a.chunk.css",
     "static/js/main.0815970e.chunk.js"
   ]
 }
